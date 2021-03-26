@@ -1,0 +1,77 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a5279638-bfd8-4686-beb2-bdf0ca285fbc",
+  "files": [],
+  "subMetas": {
+    "62344": {
+      "importer": "gltf-scene",
+      "uuid": "a5279638-bfd8-4686-beb2-bdf0ca285fbc@62344",
+      "displayName": "",
+      "id": "62344",
+      "name": "renwu-donghua.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab7fd": {
+      "importer": "gltf-animation",
+      "uuid": "a5279638-bfd8-4686-beb2-bdf0ca285fbc@ab7fd",
+      "displayName": "",
+      "id": "ab7fd",
+      "name": "gliding.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5.333333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 5.333333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "gliding",
+            "from": 0,
+            "to": 5.333333492279053,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "a5279638-bfd8-4686-beb2-bdf0ca285fbc@62344",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "a5279638-bfd8-4686-beb2-bdf0ca285fbc@62344"
+      ]
+    }
+  }
+}
